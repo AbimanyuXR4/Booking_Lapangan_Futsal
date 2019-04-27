@@ -1,0 +1,30 @@
+body{
+    background-image: url(lapangan.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.body{
+    font-display: courier;
+    font-size: 30px;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.37);
+    height: auto;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.body input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px
+}
+.body img{
+    padding: 130px 130px 130px 130px
+}
+form{
+    padding: 100px 300px 130px 30px
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: white
+}

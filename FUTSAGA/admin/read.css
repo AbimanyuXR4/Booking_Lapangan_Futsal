@@ -1,0 +1,41 @@
+body{
+    background-image: url(lapangan.jpg)
+}
+.table1 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #f2f5f7;
+}
+ 
+.table1 tr th {
+    background: #35A9DB;
+    color: #fff;
+    font-weight: normal;
+}
+ 
+.table1, th, td {
+    padding: 15px 50px 15px 30px;
+    text-align: center;
+    background: #444;
+    color: #f2f2f2;
+}
+.table1 a{
+    text-decoration: none;
+    color: #f2f2f2;
+    background: #35A9DB;
+    padding: 10px 30px 10px 30px;
+}
+.table1 a:hover{
+    background: rgb(0, 247, 255);
+    color: black
+}
+.table1 tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
+    color: #f2f2f2
+}

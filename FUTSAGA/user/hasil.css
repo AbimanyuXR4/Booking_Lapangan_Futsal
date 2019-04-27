@@ -1,0 +1,49 @@
+body{
+    background-image: url(rumput.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+table {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #f2f5f7;
+}
+ 
+table tr th {
+    background: #35A9DB;
+    color: #fff;
+    font-weight: normal;
+}
+ 
+table, th, td {
+    padding: 15px 50px 15px 30px;
+    text-align: center;
+    background: #444;
+    color: #f2f2f2;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
+    color: #f2f2f2;
+    text-align: center;
+}
+button{
+    float: right;
+    margin-right: 0,5%;
+    padding: 3px;
+    width: 100px;
+    height: 30px;
+    background-color: #35A9DB;
+}
+button:hover{
+    background-color: rgb(70, 69, 69);
+    color: rgb(236, 236, 236);
+
+}
